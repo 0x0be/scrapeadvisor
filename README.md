@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/Th3Hurrican3/scrapeadvisor/blob/media/logo.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/blackeko/scrapeadvisor/blob/media/logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">scrapeadvisor</h3>
@@ -78,7 +78,7 @@ You can manually install missing ones with:
 install.packages("library_name")
 ```
 
-or run [this script](https://github.com/Th3Hurrican3/scrapeadvisor/blob/master/ipak.R) (credit to [@stevenworthington](https://gist.github.com/stevenworthington)) to install them all.
+or run [this script](https://github.com/blackeko/scrapeadvisor/blob/master/ipak.R) (credit to [@stevenworthington](https://gist.github.com/stevenworthington)) to install them all.
 
 ### Note
 
@@ -125,12 +125,12 @@ After the download is finished, press **"Sentiment Analysis"** button and wait: 
 
 <table style="width:100%">
 		<tr>
-			<td><img src="https://github.com/Th3Hurrican3/scrapeadvisor/blob/media/word_cloud.png" ></td>
-			<td><img src="https://github.com/Th3Hurrican3/scrapeadvisor/blob/media/common_words.png" ></td>
+			<td><img src="https://github.com/blackeko/scrapeadvisor/blob/media/word_cloud.png" ></td>
+			<td><img src="https://github.com/blackeko/scrapeadvisor/blob/media/common_words.png" ></td>
 		</tr>
 		<tr>
-			<td><img src="https://github.com/Th3Hurrican3/scrapeadvisor/blob/media/sent_afinn.png" ></td>
-			<td><img src="https://github.com/Th3Hurrican3/scrapeadvisor/blob/media/shrinking.png" ></td>
+			<td><img src="https://github.com/blackeko/scrapeadvisor/blob/media/sent_afinn.png" ></td>
+			<td><img src="https://github.com/blackeko/scrapeadvisor/blob/media/shrinking.png" ></td>
 		</tr>
 </table>
 
@@ -147,7 +147,7 @@ After the download is finished, press **"Sentiment Analysis"** button and wait: 
 
 ## Authors <a name = "authors"></a>
 
-- [@Th3Hurrican3](https://github.com/Th3Hurrican3)
+- [@blackeko](https://github.com/blackeko)
 - [@SaraPizzi](https://github.com/SaraPizzi)
 
 ## Acknowledgements <a name = "acknowledgement"></a>
