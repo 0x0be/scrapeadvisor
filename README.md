@@ -145,10 +145,6 @@ After the download is finished, press **"Sentiment Analysis"** button and wait: 
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - HTML scraping 
 - [R](https://www.r-project.org/about.html) - Sentiment Analysis
 
-## Authors <a name = "authors"></a>
-
-- [@blackeko](https://github.com/blackeko)
-- [@SaraPizzi](https://github.com/SaraPizzi)
 
 ## Acknowledgements <a name = "acknowledgement"></a>
 
