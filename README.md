@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-	An user-friendly python-based GUI which provides sentiment analysis of users' reviews toward a specific TripAdvisor facility 
+	A user-friendly python-based GUI which provides sentiment analysis of users' reviews toward a specific TripAdvisor facility 
     <br> 
 </p>
 
